@@ -1,4 +1,4 @@
-# Guess the nubmer Project
+# Guess The Nubmer Project
 
 ## Description
 This project is developed for learning and practicing Python.\
@@ -14,7 +14,7 @@ Run as below with your cmd on project directory.
 python main.py
 ```
 
-## Key Learning points
+## Key Learning
 - Usage of random library
 - Usage of while-loop and if together
  
